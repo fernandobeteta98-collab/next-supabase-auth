@@ -20,5 +20,5 @@ Aplicación web desarrollada con Next.js App Router, TypeScript y Supabase SSR. 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/next-supabase-auth.git](https://github.com/fernandobeteta98-collab/next-supabase-auth.git)
+   git clone [https://github.com/fernandobeteta98-collab/next-supabase-auth.git](https://github.com/fernandobeteta98-collab/next-supabase-auth.git)
    cd next-supabase-auth
